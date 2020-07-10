@@ -2,7 +2,7 @@
 
 I'm Paul, a software engineer based out of the United States. 
 
-:books: As a self taught developer, I'm constantly looking for ways to challenge myself and expand my skills. Life long learning is a must in the field of software (in my opion). 
+:books: As a self taught developer, I'm constantly looking for ways to challenge myself and expand my skills. Life long learning is a must in the field of software development (in my opion).
 
 ### Projects
 
