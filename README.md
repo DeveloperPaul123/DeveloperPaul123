@@ -12,6 +12,5 @@ I work on a wide variety of projects, most of them open source. I've benefited a
 
 - By [email](mailto:developer.paul.123@gmail.com)
 - On my [website](https://developerpaul123.github.io)
-- Twitter [@DeveloperPaul12](https://twitter.com/DeveloperPaul12)
 
 
