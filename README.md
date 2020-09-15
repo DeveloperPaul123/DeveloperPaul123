@@ -34,4 +34,4 @@ I work on a wide variety of projects, most of them open source. I've benefited a
 
 ![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerpaul123&layout=compact&hide=html) 
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=developerpaul123&show_icons=true)
+![github-stats](https://github-readme-stats.vercel.app/api?username=developerpaul123&show_icons=true&count_private=true&theme=dark)
