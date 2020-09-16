@@ -19,8 +19,6 @@ I work on a wide variety of projects, most of them open source. I've benefited a
 
 ### Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerpaul123" alt="developerpaul123" /> </p>
-
 #### Todoist
 <!-- TODO-IST:START -->
 🏆  29,941 Karma Points           
