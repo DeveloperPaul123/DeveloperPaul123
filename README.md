@@ -15,7 +15,6 @@ I work on a wide variety of projects, most of them open source. I've benefited a
 ### Keep in touch
 
 - By [email](mailto:developer.paul.123@gmail.com)
-- On my [website](https://developerpaul123.github.io)
 
 ### Stats
 
