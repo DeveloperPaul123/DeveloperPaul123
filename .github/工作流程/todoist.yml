@@ -1,0 +1,11 @@
+name: Todoist Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every minute 
+    - cron: '* * * * *'
+
+jobs:
+  update-readme:
+    name: Update todoist strets.TODOIST_API_KEY }}
