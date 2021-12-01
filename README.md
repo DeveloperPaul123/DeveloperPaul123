@@ -10,7 +10,25 @@ I work on a wide variety of projects, most of them open source. I've benefited a
 
 ### Experience
 
-<p align="left"><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/android/android-original.svg" alt="android" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/git/git-plain.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" heigh="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/github/github-original.svg" alt="github" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> </p>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/visualstudio/visualstudio-plain.svg" alt="visual-studio" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" heigh="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="qt" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40"/>
+</p>
 
 ### Keep in touch
 
