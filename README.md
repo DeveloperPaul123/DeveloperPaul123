@@ -38,10 +38,10 @@ I work on a wide variety of projects, most of them open source. I've benefited a
 
 #### Todoist
 <!-- TODO-IST:START -->
-🏆  37,809 Karma Points           
+🏆  37,811 Karma Points           
 🌸  Completed 0 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 8,635 tasks so far           
+🗓  Completed 8 tasks this week           
+✅  Completed 8,636 tasks so far           
 ⏳  Longest streak is 30 days
 <!-- TODO-IST:END -->
 
