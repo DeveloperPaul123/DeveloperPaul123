@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Paul, a software engineer based out of the United States. 
-
-:books: As a self taught developer, I'm constantly looking for ways to challenge myself and expand my skills. Life long learning is a must in the field of software development (in my opion).
+🤓 I'm Paul, a software engineer based out of the United States.
 
 ### Projects
 
-I work on a wide variety of projects, most of them open source. I've benefited a great deal from open source software, so I think it's important to give back to the community however I can. Be sure to check out my repos and follow me to keep up with everything! 
+I work on a wide variety of projects, most of them open source. I've benefited a great deal from open source software, so I think it's important to give back to the community however I can. Be sure to check out my repos and follow me to keep up with everything!
 
-### Experience
+If you appreciate my work or libraries, please consider becoming a [sponsor](https://github.com/sponsors/DeveloperPaul123). Doing so will allow me to make further open source contributions and create new libraries. Your support is very much appreciated!
+
+### :hammer_and_wrench: Languages and Tools
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.8.2/icons/android/android-original.svg" alt="android" width="40" height="40"/>
@@ -35,19 +35,9 @@ I work on a wide variety of projects, most of them open source. I've benefited a
 - By [email](mailto:developer.paul.123@gmail.com)
 - On [Discord](https://discord.gg/CX2ybByRnt)
 
-### Stats
+---
 
-#### Todoist
-<!-- TODO-IST:START -->
-🏆  43,510 Karma Points           
-🌸  Completed 4 tasks today           
-🗓  Completed 46 tasks this week           
-✅  Completed 10,534 tasks so far           
-⏳  Longest streak is 30 days
-<!-- TODO-IST:END -->
-
-#### Github
-
-![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerpaul123&langs_count=10&layout=compact&hide=html&theme=radical) 
-
-![github-stats](https://github-readme-stats.vercel.app/api?username=developerpaul123&show_icons=true&count_private=true&theme=radical)
+### 🔥 Stats
+| | | |
+|:--:|:--:|:--:|
+| ![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerpaul123&langs_count=10&layout=compact&hide=html&theme=radical) | ![github-stats](https://github-readme-stats.vercel.app/api?username=developerpaul123&show_icons=true&count_private=true&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperPaul123&theme=dark&hide_border=true)](https://git.io/streak-stats) |
