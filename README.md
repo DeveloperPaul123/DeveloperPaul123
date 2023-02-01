@@ -38,10 +38,9 @@ If you appreciate my work or libraries, please consider becoming a [sponsor](htt
 ---
 
 ### 🔥 Stats
-|||
-|:--:|:--:|
-| ![github-stats](https://github-readme-stats.vercel.app/api?username=developerpaul123&show_icons=true&count_private=true&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperPaul123&theme=dark&hide_border=true)](https://git.io/streak-stats) |
 
-||
-|:--:|
+| ![github-stats](https://github-readme-stats.vercel.app/api?username=developerpaul123&show_icons=true&count_private=true&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperPaul123&theme=dark&hide_border=true)](https://git.io/streak-stats) |
+|:--:|:--:|
+
 | ![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerpaul123&langs_count=10&layout=compact&hide=html&theme=radical) |
+|:--:|
