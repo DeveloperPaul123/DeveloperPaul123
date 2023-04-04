@@ -1,12 +1,8 @@
-### Hi there 👋
+### About Me
 
+**Hi there** 👋
 🤓 I'm Paul, a software engineer based out of the United States.
-
-### Projects
-
-I work on a wide variety of projects, most of them open source. I've benefited a great deal from open source software, so I think it's important to give back to the community however I can. Be sure to check out my repos and follow me to keep up with everything!
-
-If you appreciate my work or libraries, please consider becoming a [sponsor](https://github.com/sponsors/DeveloperPaul123). Doing so will allow me to make further open source contributions and create new libraries. Your support is very much appreciated!
+I work on a wide variety of projects, most of them open source. I've benefited a great deal from open source software, so I do my best to give back where I can.
 
 ### :hammer_and_wrench: Languages and Tools
 
