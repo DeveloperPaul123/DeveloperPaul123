@@ -1,8 +1,25 @@
 ### About Me
 
 **Hi there** 👋
-🤓 I'm Paul, a software engineer based out of the United States.
-I work on a wide variety of projects, most of them open source. I've benefited a great deal from open source software, so I do my best to give back where I can.
+🤓 I'm Paul, a software engineer based out of the United States. 
+
+My interests include:
+
+- Open source software
+- High performance computing/code
+- Multi-threading
+- GPGPU 
+- 2D/3D graphics
+
+I work on a wide variety of projects, most of them open source. I've benefited a great deal from open source software, so I do my best to give back where I can. Some notable projects I have contributed to:
+
+- [f3d](https://github.com/f3d-app/f3d)
+- [qCoro](https://github.com/danvratil/qcoro)
+- [CPM.cmake](https://github.com/cpm-cmake/CPM.cmake)
+
+Additionally, below are some projections I'm a active maintainer of:
+
+- [fstl](https://github.com/fstl-app/fstl)
 
 ### :hammer_and_wrench: Languages and Tools
 
