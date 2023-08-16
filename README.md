@@ -17,6 +17,7 @@ I work on a wide variety of projects, most of them open source. I've benefited a
 - [f3d](https://github.com/f3d-app/f3d)
 - [qCoro](https://github.com/danvratil/qcoro)
 - [CPM.cmake](https://github.com/cpm-cmake/CPM.cmake)
+- [flux](https://github.com/tcbrindle/flux)
 
 Additionally, below are some projections I'm a active maintainer of:
 
