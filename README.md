@@ -62,8 +62,8 @@ Additionally, below are some projections I'm a active maintainer of:
 
 ### 🔥 Stats
 
-| ![github-stats](https://github-readme-stats.vercel.app/api?username=developerpaul123&show_icons=true&count_private=true&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperPaul123&theme=dark&hide_border=true)](https://git.io/streak-stats) |
+| ![github-stats](https://github-readme-stats.vercel.app/api?username=developerpaul123&show_icons=true&count_private=true&theme=vision-friendly-dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperPaul123&theme=vision-friendly-dark&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats) |
 |:--:|:--:|
 
-| ![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerpaul123&langs_count=10&layout=compact&hide=html&theme=radical) |
+| ![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developerpaul123&langs_count=6&layout=compact&hide=html,css,arduino,c&theme=vision-friendly-dark) |
 |:--:|
