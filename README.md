@@ -25,11 +25,12 @@ Additionally, below are some projections I'm a active maintainer of:
 
 ### :hammer_and_wrench: Languages and Platforms
 
+
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" alt="android" width="40" height="40" class="filter-orange"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="windows" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
